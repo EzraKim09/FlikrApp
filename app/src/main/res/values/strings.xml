@@ -19,4 +19,6 @@
     <string name="name">Name</string>
     <string name="thangthuama">Thangthuama</string>
     <string name="date">1.1.01</string>
+    <string name="fabdescription">fab_description</string>
+    <string name="flikrstory">FlikrStory</string>
 </resources>
