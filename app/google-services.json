@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717763727530",
+    "project_id": "gdsc-appd-task",
+    "storage_bucket": "gdsc-appd-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717763727530:android:64ce25a014ddad83c1c0d3",
+        "android_client_info": {
+          "package_name": "kim.com.example.gdscappdtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717763727530-h9q59h2h2f451j3nei9dkrokp2j35s64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNutE4yMpOQRuA48iyrV9B79Vahe9_ngA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717763727530-h9q59h2h2f451j3nei9dkrokp2j35s64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

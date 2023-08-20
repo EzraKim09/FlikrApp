@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="380dp"
+    android:layout_height="160dp"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="20dp"
+    android:layout_marginStart="15dp"
+    android:background="@drawable/rounded_corners2"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <ImageView
+        android:layout_width="160dp"
+        android:layout_height="110dp"
+        android:id="@+id/imageview"
+        android:layout_marginStart="20dp"
+        android:background="@color/black"
+        android:layout_centerVertical="true"
+        android:scaleType="centerCrop"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="40dp"
+        android:id="@+id/imageName"
+        android:layout_toEndOf="@id/imageview"
+        android:textColor="@color/txt_color"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        tools:text="@string/name"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="4dp"
+        android:id="@+id/authorName"
+        android:layout_toEndOf="@id/imageview"
+        android:layout_below="@id/imageName"
+        android:textColor="@color/txt_color"
+        android:textSize="18sp"
+        tools:text="@string/thangthuama"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="0dp"
+        android:id="@+id/dateSubmit"
+        android:layout_toEndOf="@id/imageview"
+        android:layout_below="@id/authorName"
+        android:textColor="@color/txt_color"
+        android:textSize="16sp"
+        tools:text="@string/date"/>
+
+
+</RelativeLayout>

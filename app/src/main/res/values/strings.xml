@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GDSCAppDTask</string>
+    <string name="login">Login</string>
+    <string name="loginBtn">Login</string>
+    <string name="register">Register</string>
+    <string name="registerBtn">Register</string>
+    <string name="click_to_login">Click_to_Login</string>
+    <string name="clickToLogin">click to login</string>
+    <string name="ClickToLogin">Click To Login</string>
+    <string name="clickToRegister">Click to Register</string>
+    <string name="ClickToRegister">Click To Register</string>
+    <string name="todo">TODO</string>
+    <string name="storydemo">Hello This is my Story oh Yayyyy</string>
+    <string name="datedemo">1.1.01</string>
+    <string name="authordemo">Thangthuama</string>
+    <string name="namedemo">Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="thangthuama">Thangthuama</string>
+    <string name="date">1.1.01</string>
+</resources>
